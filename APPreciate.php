@@ -7,3 +7,6 @@ Author: Ciprian Turcu
 Version: 1.0
 Author URI: http://turcuciprian.com/appreciate-wordpress-plugin/
 */
+
+require_once('cc.php');
+require_once('config.php');

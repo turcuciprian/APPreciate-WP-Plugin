@@ -5,3 +5,4 @@ $widgetsArray = array(
   )
 );
 $ccWidgets = new cc();
+$ccWidgets
